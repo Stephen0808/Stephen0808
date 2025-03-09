@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm currently a first-year Ph.D. student at The University of Hong Kong, supervised by Prof. Ngai Wong. Previously, I received my M.Eng. degree from IIGROUP, Tsinghua University, supervised by Yujiu Yang and B.Eng. degree from Huazhong University of Science and Technology. My research interests are in computer vision and efficent model, currently focusing on vision language model test time scaling.
