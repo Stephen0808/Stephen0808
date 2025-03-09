@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-I'm currently a first-year Ph.D. student at The University of Hong Kong, supervised by [Prof. Ngai Wong](https://scholar.google.com/citations?user=PM_uMYIAAAAJ&hl=en). Previously, I received my M.Eng. degree from IIGROUP, Tsinghua University, supervised by [Prof. Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) and B.Eng. degree from Huazhong University of Science and Technology. My research interests are in computer vision and efficent model, currently focusing on vision language model test time scaling.
+I'm currently a first-year Ph.D. student at The University of Hong Kong, supervised by [Prof. Ngai Wong](https://scholar.google.com/citations?user=PM_uMYIAAAAJ&hl=en). Previously, I received my M.Eng. degree from IIGROUP, Tsinghua University, supervised by [Prof. Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) and B.Eng. degree from Huazhong University of Science and Technology. 
+My research interests are in computer vision and efficent model, currently focusing on vision language model test time scaling.
